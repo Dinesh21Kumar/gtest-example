@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/testy/customer.h
+
+../include/testy/widget.h
+
+/Users/dineshkumar/Documents/jiocloud/testy/src/customer.c
+testy/customer.h
+/Users/dineshkumar/Documents/jiocloud/testy/src/testy/customer.h
+
+/Users/dineshkumar/Documents/jiocloud/testy/src/widget.c
+testy/widget.h
+/Users/dineshkumar/Documents/jiocloud/testy/src/testy/widget.h
+
