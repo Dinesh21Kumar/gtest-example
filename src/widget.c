@@ -1,4 +1,4 @@
-#include "testy/widget.h"
+#include "widget.h"
 
 int private_ok_value = 2;
 

@@ -1,5 +1,5 @@
-#include "testy/customer.h"
-#include "testy/widget.h"
+#include "customer.h"
+#include "widget.h"
 
 int main() {
   if (widget_ok(1, 1)) {

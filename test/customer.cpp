@@ -1,7 +1,7 @@
 #include "gtest/gtest.h"
 
 extern "C" {
-#include "testy/customer.h"
+#include "customer.h"
 }
 
 TEST(customer, ok) {
